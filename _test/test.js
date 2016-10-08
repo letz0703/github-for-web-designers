@@ -1,0 +1,1 @@
+var player1 = {name:"Fred", score:10000, rank: 1};

@@ -1,0 +1,674 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"g",
+				"getElementById"
+			],
+			[
+				"da",
+				"donated"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "reference.html",
+			"settings":
+			{
+				"buffer_size": 16836,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 10210,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "github-for-web-designers.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "script.js",
+			"settings":
+			{
+				"buffer_size": 56,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<meta charset=\"utf-8\">\n\t<title></title>\n</head>\n<body>\n\n\n<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js\">\n</script>\n\n</body>\n</html>\n\n",
+			"settings":
+			{
+				"buffer_size": 196,
+				"line_ending": "Windows",
+				"name": "gistfile1.txt"
+			}
+		},
+		{
+			"contents": "<!DOCTYPE html>\n<html>\n<head>\n\t<meta charset=\"utf-8\">\n\t<title></title>\n</head>\n<body>\n\n\n<script src=\"https://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js\">\n</script>\n\n</body>\n</html>",
+			"file": "/c/users/rains/appdata/local/temp/gistfile1.txt",
+			"file_size": 207,
+			"file_write_time": 131200600947970912,
+			"settings":
+			{
+				"buffer_size": 194,
+				"line_ending": "Windows",
+				"name": "gistfile1.txt",
+				"scratch": true
+			}
+		},
+		{
+			"contents": "(function($){\n\tvar o = $({});\n\n\t$.each({\n\t\ton: 'subscribe',\n\t\ttrigger: 'publish',\n\t\toff:'unsubscribe'\n\t}, function(key, api){\n\t\t$[api] = function(){\n\t\t\to[key].apply( o, arguments );\n\t\t}\n\t});\n})(jQuery);\n",
+			"settings":
+			{
+				"buffer_size": 203,
+				"line_ending": "Windows",
+				"name": "(function($){"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "gist",
+		"selected_items":
+		[
+			[
+				"gist",
+				"Gist: Open Gist"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"subli",
+				"SublimeLinter: Enable Linting"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"brower",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"snip",
+				"Snippet: html"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"pacage Contrl : in",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 155.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/rains/Desktop/repos/github-for-web-designers"
+	],
+	"file_history":
+	[
+		"/c/users/rains/appdata/local/temp/Barcode Scanner",
+		"/c/users/rains/appdata/local/temp/gistfile1.txt",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/Gist/Gist.sublime-settings",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/User/Gist.sublime-settings",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/rains/Desktop/repos/github-for-web-designers/script.js",
+		"/C/Users/rains/OneDrive/문서/roux_website/_test/github-for-web-designers.sublime-project",
+		"/C/Users/rains/Desktop/repos/git-basics/readme.txt",
+		"/C/Users/rains/OneDrive/문서/roux_website/_script/java.css",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/rains/Downloads/프로그래밍/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Linda Programing Basic/ch02/First/script.js",
+		"/C/Users/rains/OneDrive/문서/roux_website/index.htm",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/readme.md",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/rains/OneDrive/문서/roux_website/admissions/request.htm",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/Dracula Color Scheme/README.md",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/rains/OneDrive/문서/roux_website/_scripts/SpryTabbedPanels.css",
+		"/C/Users/rains/Downloads/프로그래밍/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Linda Programing Basic/ch03/Whitespace/script.js",
+		"/C/Users/rains/OneDrive/문서/roux_website/_css/main.css",
+		"/C/Users/rains/Downloads/프로그래밍/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Linda Programing Basic/ch04/switch statement/script.js",
+		"/C/Users/rains/OneDrive/문서/roux_website/_scripts/SpryTabbedPanels.js",
+		"/C/Users/rains/OneDrive/문서/roux_website/test.js",
+		"/C/Users/rains/Downloads/프로그래밍/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Linda Programing Basic/ch03/Numbers/container.html",
+		"/C/Users/rains/Downloads/프로그래밍/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Linda Programing Basic/ch11/Debugger Example/container.html",
+		"/C/Users/rains/AppData/Roaming/Sublime Text 3/Packages/User/chrome.sublime-build",
+		"/C/Users/rains/Downloads/프로그래밍/Ex_Files_FoP_Fun/Ex_Files_FoP_Fun/Linda Programing Basic/ch02/First/container.html",
+		"/C/Users/rains/OneDrive/문서/roux_website/error.htm"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"function_name",
+			"f",
+			"\n\t",
+			";\n",
+			"box",
+			"sometext",
+			"jeff",
+			"icanmart",
+			"com",
+			"of",
+			"auto_complete_commit_on_tab",
+			"footer",
+			"Footer",
+			"footer",
+			"body",
+			"<h2>",
+			"<p>",
+			"am.&rdquo;",
+			"&rdquo;",
+			"&ldquo;",
+			"&rsquo;",
+			"<p>",
+			"<p",
+			"p",
+			"class",
+			"id=",
+			"id",
+			"li",
+			"homeHeader",
+			"admissions",
+			"Admissions",
+			"admissions",
+			"Join",
+			"branding",
+			"Roux",
+			"a",
+			"Roux",
+			"500",
+			"while",
+			"defaultTab",
+			"element",
+			"background",
+			"TabbedPanelsTabSelected",
+			"margin",
+			"programs",
+			"<p class=\"branding\">We are passionate about the role of <span class=\"orange\">innovation</span> and <span class=\"lavender\">creativity</span> in solving the <span class=\"blue\">design</span> challenges of tomorrow. <a href=\"admissions.htm\" title=\"admissions\"> Join us.</a></p>\n</header>\n<section class=\"spotlight info condense\">\n<h2>Student Spotlight</h2>\n<img src=\"_images/featured_student.jpg\" width=\"285\" height=\"230\" alt=\"Featured student work\">\n",
+			"passionate",
+			"About",
+			"about",
+			"class",
+			"this",
+			"Academy",
+			"role",
+			"passionate",
+			"programs",
+			"header",
+			"class"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "reference.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 16836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15327,
+								16131
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4120.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10210,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3833,
+								3833
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 646.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "github-for-web-designers.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "script.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 196,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								196,
+								196
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\rains\\Desktop\\repos\\github-for-web-designers",
+							"gist_description": "HTML: Starting Template",
+							"gist_filename": "gistfile1.txt",
+							"gist_html_url": "https://gist.github.com/7f88a1191d23c9a78260302e8ffd026c",
+							"gist_url": "https://api.github.com/gists/7f88a1191d23c9a78260302e8ffd026c",
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/c/users/rains/appdata/local/temp/gistfile1.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 194,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\rains\\Desktop\\repos\\github-for-web-designers",
+							"do-update": true,
+							"gist_description": "HTML: Starting Template",
+							"gist_filename": "gistfile1.txt",
+							"gist_html_url": "https://gist.github.com/7f88a1191d23c9a78260302e8ffd026c",
+							"gist_url": "https://api.github.com/gists/7f88a1191d23c9a78260302e8ffd026c",
+							"syntax": "Packages/Text/Text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"auto_name": "(function($){",
+							"default_dir": "C:\\Users\\rains\\Desktop\\repos\\github-for-web-designers",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 30.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "github-for-web-designers.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"re",
+				"reference.html"
+			],
+			[
+				"ind",
+				"roux_website\\index.htm"
+			],
+			[
+				".css",
+				"roux_website\\_css\\main.css"
+			],
+			[
+				"inde",
+				"roux_website\\index.htm"
+			],
+			[
+				"in",
+				"roux_website\\index.htm"
+			],
+			[
+				"main.css",
+				"roux_website\\_css\\main.css"
+			],
+			[
+				"sprjs",
+				"roux_website\\_scripts\\SpryTabbedPanels.js"
+			],
+			[
+				"sprp",
+				"roux_website\\_scripts\\SpryTabbedPanels.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\rains\\OneDrive\\문서\\roux_website\\_test\\github-for-web-designers.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 284.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
